@@ -1,0 +1,8 @@
+pytest
+pylint
+requests
+psycopg2-binary
+flask
+boto3
+python-dotenv
+confluent-kafka
